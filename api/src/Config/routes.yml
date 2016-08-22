@@ -1,0 +1,4 @@
+GET_note:
+  path: /note
+  controller: Notebook\Controllers\Notes\Index
+  method: GET
